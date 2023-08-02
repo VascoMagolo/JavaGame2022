@@ -1,1 +1,1 @@
-# JavaGame2022
+# Small Java Game
